@@ -1,0 +1,5 @@
+node_modules
+*.json
+*.csv
+data.js
+static/js/data.js
