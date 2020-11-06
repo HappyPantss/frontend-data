@@ -1,17 +1,13 @@
 // Endpoint which returns locations of parking places, including area IDs
 import { endpoint, endpointTwo, selectedColumn} from './config.js'
 
-getData(endpoint)
+getData(endpointTwo)
  .then(RDWData => {
   	console.log("all data: ", RDWData)
-  	console.log("one datum", RDWData[0])
-  	const areaIdArray = filterData(RDWData, selectedColumn)
-    const usageArray = filterData(RDWData, 'usageid')
+  	const locationArray = filterData(RDWData, selectedColumn)
+    console.log("All location data", locationArray);
 
-	const uniqueUsageValues = listUnique(usageArray)
-    console.log("Unique usage values:", uniqueUsageValues)
-  
-  	const uniqueAreaValues = listUnique(areaIdArray)
+  	const uniqueAreaValues = listUnique(locationArray)
     console.log("Unique area values:", uniqueAreaValues) 
   
   	// console.log(usageArray, areaIdArray)
@@ -24,12 +20,12 @@ async function getData(url) {
 }
 
 // Returns all values for a certain key in an array of data
-function filterData(dataArray, key) {
+let filterData = (dataArray, key) => {
   return dataArray.map(item => item[key])
 }
 
 // Returns all unique values in an array
-function listUnique(dataArray) {
+let listUnique = (dataArray) => {
   //logica which finds unique values
   let uniqueArray = []
   dataArray.forEach(item => {
