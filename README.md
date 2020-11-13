@@ -65,15 +65,15 @@ To find more about my most interesting Functional Patters, click [here](https://
 
 # Sources
 ## Data
-RDW. (2020, 13 november). Open Data Parkeren: GEBRUIKSDOEL | Open Data | RDW. https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-GEBRUIKSDOEL/qidm-7mkf<br>
-RDW. (2020a, november 13). GEO PenR | Open Data | RDW. https://opendata.rdw.nl/Parkeren/GEO-PenR/6wzd-evwu
+* RDW. (2020, 13 november). Open Data Parkeren: GEBRUIKSDOEL | Open Data | RDW. https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-GEBRUIKSDOEL/qidm-7mkf<br>
+* RDW. (2020a, november 13). GEO PenR | Open Data | RDW. https://opendata.rdw.nl/Parkeren/GEO-PenR/6wzd-evwu
 
 ## Code
-RDW. (z.d.). Open Data Parkeren. Geraadpleegd 19 oktober 2020, van [https://opendata.rdw.nl/browse?category=Parkeren&provenance=official](https://opendata.rdw.nl/browse?category=Parkeren&provenance=official)<br>
-Curran Kelleher. (2018, 23 augustus). Data Visualization 2018 Course Overview. YouTube. https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&ab_channel=CurranKelleher<br>
-4.0 Color Scales - Ordinal. (z.d.). bl.ocks.org. Geraadpleegd op 13 november 2020, van https://bl.ocks.org/pstuffa/3393ff2711a53975040077b7453781a9<br>
-FrontendTips. (2020, 12 augustus). Pie chart using d3 library #d3js. YouTube. https://www.youtube.com/watch?v=lnXf1mpFGb8&t=621s&ab_channel=FrontendTips<br>
-RGB to hex and hex to RGB. (2011, 11 april). Stack Overflow. [https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb](https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb)
+* RDW. (z.d.). Open Data Parkeren. Geraadpleegd 19 oktober 2020, van [https://opendata.rdw.nl/browse?category=Parkeren&provenance=official](https://opendata.rdw.nl/browse?category=Parkeren&provenance=official)<br>
+* Curran Kelleher. (2018, 23 augustus). Data Visualization 2018 Course Overview. YouTube. https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&ab_channel=CurranKelleher<br>
+* 4.0 Color Scales - Ordinal. (z.d.). bl.ocks.org. Geraadpleegd op 13 november 2020, van https://bl.ocks.org/pstuffa/3393ff2711a53975040077b7453781a9<br>
+* FrontendTips. (2020, 12 augustus). Pie chart using d3 library #d3js. YouTube. https://www.youtube.com/watch?v=lnXf1mpFGb8&t=621s&ab_channel=FrontendTips<br>
+* RGB to hex and hex to RGB. (2011, 11 april). Stack Overflow. [https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb](https://stackoverflow.com/questions/5623838/rgb-to-hex-and-hex-to-rgb)
 
 # With help from:
 [Jordy Fronik - joordy](https://github.com/joordy)<br>
