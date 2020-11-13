@@ -1,15 +1,53 @@
+h1, p {
+	text-align: center;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  margin: 0;
+}
+
+h1 {
+	margin-top: 1rem;
+}
+
 svg {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-  }
-  
-  .arc {
-      font-family: Impact, Charcoal, sans-serif;
-    font-size: 1rem;
-  }
-  
-  .arcText {
-      color: white; 
-  }
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-bottom: -7%;
+  transform: translate(-50%, -37%);
+}
+
+.arc {
+  font-size: 1rem;
+}
+
+.arcText {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 0.8rem;
+  font-weight: bold;
+  fill: black;
+  text-anchor: middle;
+}
+
+.arcTitle {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 0.8rem;
+  font-weight: bold;
+  fill: black;
+  text-anchor: middle;
+}
+
+.arcPath {
+  transition: fill 250ms linear;
+  transition-delay: 1000;
+}
+
+/* .arcPath:hover {
+  fill: #999;
+  transition-delay: 0;
+} */
+
+.pathHover {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  transition: fill 250ms linear;
+  transition-delay: 1000;
+}
