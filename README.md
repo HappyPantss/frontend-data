@@ -3,7 +3,8 @@
 
 This is the repository for frontend-data CMD 2020/2021.
 
-VizHub version (UP TO DATE) https://vizhub.com/HappyPantss/673013ca00df472da1a3dfa7a6b55aaf?edit=files&file=index.html
+Code example from: https://www.youtube.com/watch?v=lnXf1mpFGb8&t=78s&ab_channel=FrontendTips
+VizHub version (UP TO DATE): https://vizhub.com/HappyPantss/673013ca00df472da1a3dfa7a6b55aaf?edit=files&file=index.html
 
 # Debrief
 In this course we will make a data visualization for the 'De Volkskrant' newspaper. We got some data to explore. The data is about parking and cars. I have to choose a topic which I think would make a great visualization. These datasets were given by RDW and are opensource. The RDW is a organization that takes care of the registration of motorized vehicles and driving licenses in the Netherlands.
