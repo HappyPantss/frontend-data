@@ -1,4 +1,6 @@
 # frontend-data
+![RDW Pie Chart](https://i.imgur.com/QPOQOLO.gif)
+
 This is the repository for frontend-data CMD 2020/2021.
 
 VizHub version (UP TO DATE) https://vizhub.com/HappyPantss/673013ca00df472da1a3dfa7a6b55aaf?edit=files&file=index.html
