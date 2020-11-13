@@ -43,7 +43,7 @@ The data I want to use, is the startdataarea, because this tells me when the Par
 	makePieChart(aantalPerJaarArray);
 ```
 
-The array that will come out of this will look something like this:
+The array that will come out of this will look something like this:<br>
 ![Data array](https://i.imgur.com/zIDsMzu.png)
 
 ## Most interesting Functional Patterns
